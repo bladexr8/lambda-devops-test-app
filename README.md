@@ -1,1 +1,1 @@
-# Lambda DevOps Test App v1.1
+# Lambda DevOps Test App v1.2
